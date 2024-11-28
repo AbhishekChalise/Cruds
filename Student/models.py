@@ -10,5 +10,7 @@ class Student_Model(models.Model):
     class Meta:
         db_table = 'student_model'
 
+print("Changes made here !!!!!!!")
+
 
 
